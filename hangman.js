@@ -33,7 +33,7 @@ function displaySecret() {
 }
 
 function displayLetters() {
-    var alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
+    let alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
     let letters = ''
     alphabet.forEach(ch => {
         let disabled = ''
