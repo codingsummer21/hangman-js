@@ -1,7 +1,9 @@
 # Hangman Game
 
+## version 01 - no canvas
+
 A JavaScript application for the 
-Hangman game. which uses a MySQL database to 
+Hangman game.
 Retrieves random words from a public API, 
 displays the word and asks user to play.
 
